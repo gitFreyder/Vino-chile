@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&family=Cabin:wght@400;500;600;700&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,600&family=Poppins:ital,wght@0,300;0,400;0,700;1,500;1,600;1,700&display=swap');
+
+
+body{
+    font-family: 'Assistant', sans-serif;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Cabin', sans-serif;
+}
+
+
+/* header */
+.nav-link{
+    color: #FFFF!important;
+    
+}
+.nav-link i{
+    font-size: 1.4rem ;
+}
+
+
+/* categoria */
+.category-bg{
+    background-color: black;
+}
